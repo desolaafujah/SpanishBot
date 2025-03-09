@@ -13,5 +13,5 @@ An interactive AI-powered chatbot that helps you practice Spanish through real c
 🛠 Tech Stack
 Backend: Go / Node.js
 Messaging API: Twilio (SMS) 
-AI & NLP: OpenAI GPT / Google Translate API
+AI & NLP: OpenAI GPT
 Database: PostgreSQL
